@@ -10,6 +10,8 @@ This code *specifically*, but simplly, does as follows in this order:
 
 # How to Use:
 -Download this file and put it in a NEW directory that you want to put 10 wallpapers into
--Create a praw.ini file with your reddit developer crudentials (Visit https://praw.readthedocs.io/en/latest/getting_started/configuration/prawini.html#praw-ini for more information
-)
+
+-Create a praw.ini file with your reddit developer crudentials (Visit https://praw.readthedocs.io/en/latest/getting_started/configuration/prawini.html#praw-ini 
+for more information)
+
 -Set your wallpaper to be a slideshow of pictures from your directory and run the script!
