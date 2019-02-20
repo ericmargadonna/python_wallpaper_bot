@@ -4,7 +4,7 @@ Fetches ten hot wallpapers from www.reddit.com/r/wallpaper and downloads them to
 # Walkthrough/Explanation
 This code *specifically*, but simplly, does as follows in this order:
 1. Logs into reddit and fetches the first 256 'hot' posts from /r/wallpapers
-2. Deletes ALL .jpg files in the working directory (Would reccomend making a separate folder for this script)
+2. Deletes ALL .jpg files in folder it is placed in (Would reccomend making a separate folder for this script)
 3. Checks that the posted pictures are at least 1080p and then puts their URLs in a list
 4. Downloads all pictures from their URLs in the list
 
